@@ -6,7 +6,6 @@ type ITileProps = {
 }
 
 export const Tile = ({ tileNumber, bgColor }: ITileProps) => {
-    console.log(`bg-${bgColor}`)
     return (
         <div 
             className={`w-[80px] h-[80px] flex justify-center items-center`}
