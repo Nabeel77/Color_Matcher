@@ -1,0 +1,1 @@
+export const colors: [string, string][] = [["green", "#2ECC71"], ["yellow", "#F4D03F"],  ["blue", "#3498DB"], ["orange", "#EB984E"], ["purple", "#A569BD"], ["red", "#E74C3C"]] 
